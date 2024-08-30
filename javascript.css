@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#main{
+    display: flex;
+}
+#heading{
+    text-align: center;
+    color: white;
+    background-color: #008080;
+    font-size: 60px;
+}
+#ques{
+    width:800px;
+    height: 865px;
+    background-color: #008080;
+    padding: 0px 2px;
+    overflow-y: auto;
+}
+#btns{
+    background-color: white;
+}
+button{
+    margin:40px;
+    font-size:30px;
+}
+#portal{
+    visibility: hidden;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+}
+#head{
+     padding-bottom: 20px;
+    font-size: 50px;
+}
+#portal>p{
+
+    font-size: 25px;
+    padding-bottom:20px;
+}
+#tex{
+    width: 400px;
+    height: 40px;
+    padding: 10px;
+    display: block;
+}
+textarea{
+    margin-top: 20px;
+    padding: 20px;
+    display: block;
+}
+#sub1{
+    height:40px;
+    width: 75px;
+    margin-top: 10px;
+    margin-left: 730px;
+}
+#hd{
+    text-align: center;
+    font-weight: 900;
+    margin: 15px;
+    padding: 3px 3px;
+}
+#pr{
+    text-align: center;
+    font-size: 20px;
+    margin: 10px;
+}
+#ares{
+    margin-top: 45px;
+    margin-bottom: 10px;
+}
+#content{
+    margin: 2%;
+}
+#resd{
+    margin-top: 200px;
+}
+#txt{
+    background-color: #008080;
+    padding: 3px 3px;
+margin-top: 10px;
+
+}
+#kk{
+    text-align: center;
+    font-size: 50px ;
+    background-color: white;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding: 5px;
+}
+#kkk{
+    font-size: 25px;
+    background-color: white;
+    margin-bottom: 20px;
+  padding-left: 10px;
+}
+
+#qres{
+    width: 300px;
+    height: 40px;
+    padding: 10px;
+    display: block;
+}
+#response{
+    display: none;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+}
+#sub2{
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 600px;
+}
+#resl{
+    height: 120px;
+    width: 900px;
+    background-color: #008080;
+    overflow:auto;
+    padding: 15px;
+    font-size: x-large;
+
+}
+#resd{
+    margin-top: 10px;
+}
+#resolve-btn{
+
+    margin-left: 850px;
+    font-size: 20px;
+    margin-top:5px;
+    margin-right:0px;
+}
